@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TorchLight</string>
+    <string name="flashoff">Flash On</string>
+    <string name="flashon">Flash Off</string>
+</resources>
